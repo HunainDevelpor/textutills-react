@@ -9,6 +9,7 @@ return(
   <strong>{props.alert.type}</strong>:  {props.alert.msg} 
   
 </div>
+
     
 );
 
